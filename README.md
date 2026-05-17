@@ -8,7 +8,7 @@
 ## 📚 Topics Covered
 
 - Introduction to Computer Networks  
-- OSI Model  
+- OSI Model      
 - TCP/IP Model  
 - Physical Layer  
 - Data Link Layer  
