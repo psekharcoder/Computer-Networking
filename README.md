@@ -20,7 +20,7 @@
 - Switching Techniques  
 - ARP, DNS, DHCP  
 - TCP & UDP Protocols  
-- Flow Control & Error Control  
+- Flow Control & Error Control      
 - Congestion Control  
 - HTTP, HTTPS, FTP, SMTP  
 - Network Devices  
