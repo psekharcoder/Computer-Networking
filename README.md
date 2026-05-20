@@ -18,7 +18,7 @@ Source: Tutorials Point
 - IP Addressing & Subnetting  
 - Routing Algorithms  
 - Switching Techniques  
-- ARP, DNS, DHCP  
+- ARP, DNS, DHCP    
 - TCP & UDP Protocols  
 - Flow Control & Error Control      
 - Congestion Control  
