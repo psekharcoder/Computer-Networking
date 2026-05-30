@@ -14,7 +14,7 @@ Source: Tutorials Point.
 - Data Link Layer  
 - Network Layer  
 - Transport Layer  
-- Application Layer  
+- Application Layer    
 - IP Addressing & Subnetting  
 - Routing Algorithms  
 - Switching Techniques  
