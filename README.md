@@ -6,7 +6,7 @@ Source: Tutorials Point.
 ---
     
 ## 📚 Topics Covered
-
+  
 - Introduction to Computer Networks  
 - OSI Model      
 - TCP/IP Model  
